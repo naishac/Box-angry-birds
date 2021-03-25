@@ -1,2 +1,1 @@
-# Box-angry-birds
-box angry birds
+# Box Class
